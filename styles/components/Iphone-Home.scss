@@ -1,0 +1,22 @@
+.Iphone__container{
+    position: fixed;
+    z-index: 1;
+    background-image: url("../../public/images/iphone.png");
+    background-repeat: no-repeat;
+    height: 80%;
+    width: 30%;
+    bottom: 0;
+    left: 5%;
+}
+
+.iphone__videofake{
+    background-image: url("../../public/images/video-fake.png");
+    height: 538px;
+    background-repeat: no-repeat;
+    width: 305px;
+    position: fixed;
+    z-index: 10;
+    bottom: -16px;
+    left: 8%;
+    cursor: pointer;
+}

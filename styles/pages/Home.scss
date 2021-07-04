@@ -1,0 +1,27 @@
+.section1__container{
+    .section1__container-images{
+      display: flex;
+      align-items: center;
+      gap: 24px;
+      margin-bottom: 128px;
+    }
+
+    h2{
+      font-style: normal;
+      font-weight: bold;
+      font-size: 48px;
+      line-height: 58px;
+      width: 60%;
+      margin-top:86px;
+      margin-bottom: 24px;
+
+    }
+  p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: $secondaryText;
+    width: 53%;
+  }
+}
